@@ -1,3 +1,14 @@
+Pragmatic Example
+https://rextester.com/TINB74200
+
+Public/Private access specifiers inheritance
+https://rextester.com/ZILS90142
+
+Deadly Diamond of Death!
+https://rextester.com/AAKR69008
+
+
+
 https://rextester.com/FYHUF95140
 
 https://rextester.com/ZYZYA59330
