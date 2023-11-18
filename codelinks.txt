@@ -1,3 +1,6 @@
+Accessing private members of base class in derived class.
+https://rextester.com/DURWHM11169
+
 Public/Private access specifiers/access
 https://rextester.com/DURWHM11169
 
