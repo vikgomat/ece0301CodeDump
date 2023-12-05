@@ -1,3 +1,9 @@
+abstract class
+https://rextester.com/PCGBA35888
+
+why override?
+https://rextester.com/MJQFVD66888
+
 Final Keyword application
 https://rextester.com/FPH95602
 
