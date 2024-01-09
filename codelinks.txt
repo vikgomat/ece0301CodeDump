@@ -1,3 +1,47 @@
+abstract class
+https://rextester.com/PCGBA35888
+
+why override?
+https://rextester.com/MJQFVD66888
+
+Final Keyword application
+https://rextester.com/FPH95602
+
+Need for Virtual 
+https://rextester.com/NTVIC31917
+
+Scope Resolution:
+https://rextester.com/CEXV69456
+
+Simple Eg of Overriding methods
+https://rextester.com/BGR36619
+
+Accessing private members of base class in derived class.
+https://rextester.com/DURWHM11169
+
+Public/Private access specifiers/access
+https://rextester.com/DURWHM11169
+
+Pragmatic Example
+https://rextester.com/TINB74200
+
+Public/Private access specifiers inheritance
+https://rextester.com/ZILS90142
+
+(Will not be tested!)Deadly Diamond of Death!
+https://rextester.com/AAKR69008
+
+Hybrid Inheritance
+https://rextester.com/HZAHS5704
+
+Multiple Inheritance
+https://rextester.com/DXDT64129
+
+Multi-level Inheritance
+https://rextester.com/VBAYZ51038
+
+https://rextester.com/FYHUF95140
+
 https://rextester.com/IOMP69616
 
 https://rextester.com/HQX2210
